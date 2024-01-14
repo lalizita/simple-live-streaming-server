@@ -3,7 +3,7 @@
 Um servidor para live streaming simples, somente o essencial para você transmitir e assistir ✨
 
 ```
-Esse projeto foi desenvolvido durante a gravação de um vídeo para o meu canal. Acesse o vídeo aqui:  
+Esse projeto foi desenvolvido durante a gravação de um vídeo para o meu canal. Acesse o vídeo aqui: https://youtu.be/CrEzeBwLZPU 
 ```
 
 ## Requisitos 

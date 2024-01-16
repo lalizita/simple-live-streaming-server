@@ -1,4 +1,4 @@
-# Servirdor de Live Streaming com NGINX
+# Servidor de Live Streaming com NGINX
 
 Um servidor para live streaming simples, somente o essencial para você transmitir e assistir ✨
 
